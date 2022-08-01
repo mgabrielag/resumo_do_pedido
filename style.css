@@ -91,6 +91,8 @@ body {
     background-image: url(./images/icon-music.svg);
     background-repeat: no-repeat;
     background-size: contain;
+
+    margin-right: 7px;
 }
 
 .plano-preco {
