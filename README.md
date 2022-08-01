@@ -16,7 +16,7 @@ Esse é o meu resultado final da solução do desafio :)
 
 ### :small_blue_diamond: Links
 
-- URL do site ao vivo: [Clique aqui para ver o projeto hospedado.](https://resumo_pedido.vercel.app/)
+- URL do site ao vivo: [Clique aqui para ver o projeto hospedado.](https://resumo-do-pedido.vercel.app)
 
 ### :wrench: Construído com
 
